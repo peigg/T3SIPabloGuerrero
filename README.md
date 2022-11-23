@@ -93,7 +93,3 @@ cd
 ~~~
 rm grado lru
 ~~~
-
-~~~
-apt get install date
-~~~
