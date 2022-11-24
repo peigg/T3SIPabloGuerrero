@@ -3,7 +3,7 @@
 - Haz que tu directorio de trabajo actual sea el directorio padre de tu directorio de
 inicio
 ~~~
-cd EjercicoSI
+cd /home
 ~~~
 listamos 
 ~~~
