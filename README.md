@@ -81,7 +81,7 @@ users/Pablo
 ~~~
 cd grado
 ~~~
--Elimina el fichero asignaturas 
+- Elimina el fichero asignaturas 
 ~~~
 rm asignaturas
 ~~~
