@@ -62,7 +62,10 @@ Para salir del fichero usamos ctrl+D
 ~~~
 mkdir grado lru
 ~~~
-
+- Usando un solo comando, mueve tu fichero materias para que cuelgue de tudirectorio grado pero con el nombre asignaturas.
+~~~~
+mv materias grado/asignaturas
+~~~~
 - Visualiza los ficheros/directorios de tu directorio de trabajo actual y responde a la
 siguiente cuestión: ¿dónde está tu fichero materias?
 
